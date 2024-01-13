@@ -5,4 +5,4 @@ set -e
 docker pull prajwalbelur/py-sample
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 prajwalbelur/py-sample
+docker run -d -p 5000:5000 prajwalbelur/py-sample 
